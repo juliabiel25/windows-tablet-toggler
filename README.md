@@ -28,3 +28,5 @@ This script requires a little bit of manual setup but once it's done, you can sw
 
 
 After completing the setup, all you need to do to switch between tablets is to run the `toggle_tablets` script
+
+Works for me and my Huion and XPPen babies
